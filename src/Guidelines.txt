@@ -1,0 +1,35 @@
+Tasks to Achive :
+Login Page : Making sure that the we can login with pre-given informational and being able to logout too
+and also being able to write a wrong Password/Email to see will we get an error messages!
+
+Register Page : Making sure we can access the Register a page and create a brand new account, ensuring
+that it's able to make one, also creating another task to try to create an account with existing informatiton
+such as Email and Username.
+
+Search Engine - ?
+
+Uredi Profile - With the user being logged in using cookies, we will try to change a few basic information
+and settings such as change their First and Last name,Gender,Year they were born,Country,Place of living,
+name on the forum,WWIN username, also we will try chaning our password to a new one.
+
+Lige/Timovi - Add different teams, removing different teams
+
+Password Reset - Trying to reset our password if we forgot or lost our previous one using Forgot password
+method.
+
+HTTPS Cheaking is it secure - ?
+
+Brisanje Racuna - Cheaking how to delete account
+
+Commenting/Like/Dislike/Report Comments - Trying to Comment,Like a comment,Dislake a comment, remove like/dislike
+and also trying to use the form to report a comment.
+
+Follow User,Block User and Unblock - Seeing what happens when a user is blocked, unblocked.
+
+THEMES and Using the number bar - Trying to navigate through themes, how accurate are they and going from the
+1 page to the last.
+
+// Login / Register - Forume ( nije moguce kreata account zbog cekanja verification sa strane administartora )
+// Kontaktiraj administratora/icu
+// Tabele neki random
+//
